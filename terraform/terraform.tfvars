@@ -1,1 +1,1 @@
-akash = "githubactions"
+akash = "githubactions-radheyshyam"
