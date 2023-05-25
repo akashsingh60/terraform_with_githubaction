@@ -1,0 +1,5 @@
+variable "akash" {
+   type = string
+    
+  
+}
